@@ -1,10 +1,10 @@
 package com.betrybe.museumfinder.dto;
 
+import com.betrybe.museumfinder.model.Coordinate;
+
 /**
  * Museum dto.
  */
-import com.betrybe.museumfinder.model.Coordinate;
-
 public record MuseumDto(
         Long id,
         String name,
