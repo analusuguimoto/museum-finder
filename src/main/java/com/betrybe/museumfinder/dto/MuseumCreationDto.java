@@ -1,5 +1,8 @@
 package com.betrybe.museumfinder.dto;
 
+/**
+ * Museum creation dto.
+ */
 import com.betrybe.museumfinder.model.Coordinate;
 
 public record MuseumCreationDto(
