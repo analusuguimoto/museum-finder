@@ -1,10 +1,5 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Localizador de Museus 🖼️
+Neste projeto foi implementada uma API cuja principal funcionalidade é facilitar a busca por museus baseada na localização do usuário. 
+
+## Desenvolvimento
+Neste projeto eu criei classes de controle e suas rotas, criei classes de serviço, utilizei injeção de dependências, trabalhei com exceções customizadas, tratei exceções da API através de gerenciadores de erros, implementei testes unitários para cobertura de código, e criei uma configuração Docker para a aplicação.
